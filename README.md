@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+### Developer by:
+-  Nederbeek Roleplay
+- Locked Development
+- Auth bot
+
+### 💬 Ask me about
+- Coding
+- Food
+- JS
+
+### 📫 How to reach me:
+- Discord: Scrqpting#8698
+- Discord Invite: https://discord.gg/HkZZGd5UtD
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 <!--
 **Scrqpting/Scrqpting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
