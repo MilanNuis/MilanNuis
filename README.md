@@ -1,30 +1,27 @@
-### Hi there 👋
+# Scqpting
+Hi there👋 ! My name is Milan and i'm a developer for 4 years. Read mor about me down bellow.
 
-### Developer by:
-- 🎮 Nederbeek Roleplay
-- 🔒 Locked Development
-- 🤖 Auth bot
+# Developer by:
+- 🎮 [Nederbeek Roleplay](https://discord.gg/wB6F4qPTKK)
+- 🔒 [Locked Development](https://discord.gg/HkZZGd5UtD)
+- 🤖 [Auth bot](https://discord.com/api/oauth2/authorize?client_id=906208875382984766&permissions=8&scope=bot%20applications.commands)
 
-### 💬 Ask me about
+# 🔧 Languages
+- 💻 HTML
+- 💻 CSS
+- 💻 JS
+- 💻 NodeJS
+- 💻 Python
+- 💻 Lua ( Learning )
+
+# 💬 Ask me about
 - 💻 Coding
 - 🍟 Food
 - 📂 JS
 
+# 🤝 Partners
+- 🛡️ [DiscordGuard](https://discord.gg/KkC5AtCqKx)
+
 ### 📫 How to reach me:
 - 💠 Discord: Scrqpting#8698
-- 💠 Discord Invite: https://discord.gg/HkZZGd5UtD
-
-<!--
-**Scrqpting/Scrqpting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Discord](https://discord.gg/HkZZGd5UtD)
