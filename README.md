@@ -5,6 +5,7 @@ Hi there👋 ! My name is Milan and i'm a developer for 4 years. Read more about
 - 🎮 [Nederbeek Roleplay](https://discord.gg/wB6F4qPTKK)
 - 🔒 [Locked Development](https://discord.gg/HkZZGd5UtD)
 - 🤖 [Auth bot](https://discord.com/api/oauth2/authorize?client_id=906208875382984766&permissions=8&scope=bot%20applications.commands)
+- 🎵 [Mea bot](https://discord.com/api/oauth2/authorize?client_id=954711717244469249&permissions=3148048&scope=bot%20applications.commands)
 
 # 🔧 Languages
 - 💻 HTML
