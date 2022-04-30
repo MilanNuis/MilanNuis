@@ -25,4 +25,4 @@ Hi there👋 ! My name is Milan and i'm a developer for 4 years. Read more about
 
 ### 📫 How to reach me:
 - 💠 Discord: Scrqpting#8698
-- [Discord](https://discord.gg/HkZZGd5UtD)
+- [Discord](https://discord.gg/UcmkMfJ8Ey)
