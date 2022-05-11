@@ -4,8 +4,8 @@ Hi there👋 ! My name is Milan and i'm a developer for 4 years. Read more about
 # Developer by:
 - 🎮 [Nederbeek Roleplay](https://discord.gg/wB6F4qPTKK)
 - 🔒 [Locked Development](https://discord.gg/HkZZGd5UtD)
-- 🤖 [Celic bot](https://discord.com/api/oauth2/authorize?client_id=964548219226955786&permissions=8&scope=bot%20applications.commands)
-- 🎵 [Mea bot](https://discord.com/api/oauth2/authorize?client_id=954711717244469249&permissions=3148048&scope=bot%20applications.commands)
+- 🤖 [Celic bot](https://top.gg/bot/964548219226955786)
+- 🎵 [Mea bot](https://top.gg/bot/954711717244469249)
 
 # 🔧 Languages
 - 💻 HTML
