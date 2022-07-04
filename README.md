@@ -12,7 +12,6 @@ Hi there👋 ! My name is Milan and i'm a developer for 5 years. Read more about
 - 💻 CSS
 - 💻 JS
 - 💻 NodeJS
-- 💻 Python
 - 💻 Lua ( Learning )
 
 # 💬 Ask me about
