@@ -1,7 +1,7 @@
-# Scqpting
-Hi there👋 ! My name is Milan and i'm a developer for 5 years. Read more about me down bellow.
+# Scrqpting
+Hi there👋 ! My name is Milan and I'm a developer for 5 years. Read more about me down below.
 
-# Developer by:
+# Developer for:
 - 🎮 [Nederbeek Roleplay](https://discord.gg/wB6F4qPTKK)
 - 🔒 [Locked Development](https://discord.gg/HkZZGd5UtD)
 - 🤖 [Celic bot](https://top.gg/bot/964548219226955786)
