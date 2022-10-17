@@ -3,7 +3,7 @@ Hi there👋 ! My name is Milan and I'm a developer for 5 years. Read more about
 
 # Developer for:
 - 🎮 [Nederbeek Roleplay](https://discord.gg/wB6F4qPTKK)
-- 🔒 [Locked Development](https://discord.gg/HkZZGd5UtD)
+- 🔒 [Smart Development](https://discord.gg/A696vBgQYW)
 - 🤖 [Celic bot](https://top.gg/bot/964548219226955786)
 - 🎵 [Mea bot](https://top.gg/bot/954711717244469249)
 
